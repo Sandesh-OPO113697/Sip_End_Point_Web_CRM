@@ -1,0 +1,348 @@
+D:\CRM\1CRM\OneCRM\obj\Debug\OneCRM.csproj.GenerateResource.Cache
+D:\CRM\1CRM\OneCRM\bin\Debug\OneCRM.exe.config
+D:\CRM\1CRM\OneCRM\bin\Debug\OneCRM.exe
+D:\CRM\1CRM\OneCRM\bin\Debug\OneCRM.pdb
+D:\CRM\1CRM\OneCRM\obj\Debug\OneCRM.Properties.Resources.resources
+D:\CRM\1CRM\OneCRM\obj\Debug\OneCRM.exe
+D:\CRM\1CRM\OneCRM\obj\Debug\OneCRM.pdb
+D:\CRM\1CRM\OneCRM\obj\Debug\OneCRM.Login.resources
+D:\CRM\1CRM\OneCRM\obj\Debug\OneCRM.CTI.resources
+D:\CRM\1CRM\OneCRM\obj\Debug\OneCRM.Break.resources
+D:\CRM\1CRM\OneCRM\obj\Debug\OneCRM.csprojResolveAssemblyReference.cache
+D:\CRM\1CRM\OneCRM_VishalBeforRemovingSQLConnection\bin\Debug\OneCRM.exe.config
+D:\CRM\1CRM\OneCRM_VishalBeforRemovingSQLConnection\obj\Debug\OneCRM.exe
+D:\CRM\1CRM\OneCRM_VishalBeforRemovingSQLConnection\obj\Debug\OneCRM.pdb
+D:\CRM\1CRM\OneCRM_VishalBeforRemovingSQLConnection\bin\Debug\OneCRM.exe
+D:\CRM\1CRM\OneCRM_VishalBeforRemovingSQLConnection\bin\Debug\OneCRM.pdb
+D:\CRM\1CRM\OneCRM_VishalBeforRemovingSQLConnection\obj\Debug\OneCRM.Break.resources
+D:\CRM\1CRM\OneCRM_VishalBeforRemovingSQLConnection\obj\Debug\OneCRM.CTI.resources
+D:\CRM\1CRM\OneCRM_VishalBeforRemovingSQLConnection\obj\Debug\OneCRM.Login.resources
+D:\CRM\1CRM\OneCRM_VishalBeforRemovingSQLConnection\obj\Debug\OneCRM.Properties.Resources.resources
+D:\CRM\1CRM\OneCRM_VishalBeforRemovingSQLConnection\obj\Debug\OneCRM.csproj.GenerateResource.Cache
+D:\CRM\1CRM\OneCRM_VishalBeforRemovingSQLConnection\obj\Debug\OneCRM.AddAlternateNumber.resources
+D:\CRM\1CRM\OneCRM_VishalBeforRemovingSQLConnection\bin\Debug\OneCRM.exe.manifest
+D:\CRM\1CRM\OneCRM_VishalBeforRemovingSQLConnection\bin\Debug\OneCRM.application
+D:\CRM\1CRM\OneCRM_VishalBeforRemovingSQLConnection\obj\Debug\OneCRM.exe.manifest
+D:\CRM\1CRM\OneCRM_VishalBeforRemovingSQLConnection\obj\Debug\OneCRM.application
+D:\CRM\1CRM\OneCRM_VishalBeforRemovingSQLConnection\obj\Debug\OneCRM.csprojResolveAssemblyReference.cache
+D:\CRM\1CRM\OneCRM_VishalBeforRemovingSQLConnection\obj\Debug\OneCRM.SearchCustomerDetails.resources
+D:\CRM\1CRM\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn\bin\Debug\OneCRM.exe.config
+D:\CRM\1CRM\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn\obj\Debug\OneCRM.exe
+D:\CRM\1CRM\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn\obj\Debug\OneCRM.pdb
+D:\CRM\1CRM\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn\bin\Debug\OneCRM.exe.manifest
+D:\CRM\1CRM\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn\bin\Debug\OneCRM.application
+D:\CRM\1CRM\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn\bin\Debug\OneCRM.exe
+D:\CRM\1CRM\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn\bin\Debug\OneCRM.pdb
+D:\CRM\1CRM\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn\obj\Debug\OneCRM.csprojResolveAssemblyReference.cache
+D:\CRM\1CRM\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn\obj\Debug\OneCRM.AddAlternateNumber.resources
+D:\CRM\1CRM\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn\obj\Debug\OneCRM.Break.resources
+D:\CRM\1CRM\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn\obj\Debug\OneCRM.CTI.resources
+D:\CRM\1CRM\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn\obj\Debug\OneCRM.Login.resources
+D:\CRM\1CRM\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn\obj\Debug\OneCRM.Properties.Resources.resources
+D:\CRM\1CRM\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn\obj\Debug\OneCRM.SearchCustomerDetails.resources
+D:\CRM\1CRM\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn\obj\Debug\OneCRM.csproj.GenerateResource.Cache
+D:\CRM\1CRM\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn\obj\Debug\OneCRM.exe.manifest
+D:\CRM\1CRM\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn\obj\Debug\OneCRM.application
+D:\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn\bin\Debug\OneCRM.exe.config
+D:\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn\obj\Debug\OneCRM.exe
+D:\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn\obj\Debug\OneCRM.pdb
+D:\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn\obj\Debug\OneCRM.AddAlternateNumber.resources
+D:\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn\obj\Debug\OneCRM.Break.resources
+D:\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn\obj\Debug\OneCRM.CTI.resources
+D:\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn\obj\Debug\OneCRM.Login.resources
+D:\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn\obj\Debug\OneCRM.Properties.Resources.resources
+D:\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn\obj\Debug\OneCRM.SearchCustomerDetails.resources
+D:\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn\obj\Debug\OneCRM.csproj.GenerateResource.Cache
+D:\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn\bin\Debug\OneCRM.exe.manifest
+D:\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn\bin\Debug\OneCRM.application
+D:\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn\bin\Debug\OneCRM.exe
+D:\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn\bin\Debug\OneCRM.pdb
+D:\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn\obj\Debug\OneCRM.exe.manifest
+D:\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn\obj\Debug\OneCRM.application
+D:\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\bin\Debug\OneCRM.exe.config
+D:\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\OneCRM.exe
+D:\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\OneCRM.pdb
+D:\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\bin\Debug\OneCRM.exe.manifest
+D:\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\bin\Debug\OneCRM.application
+D:\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\bin\Debug\OneCRM.exe
+D:\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\bin\Debug\OneCRM.pdb
+D:\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\OneCRM.AddAlternateNumber.resources
+D:\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\OneCRM.Break.resources
+D:\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\OneCRM.CTI.resources
+D:\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\OneCRM.Login.resources
+D:\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\OneCRM.Properties.Resources.resources
+D:\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\OneCRM.SearchCustomerDetails.resources
+D:\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\OneCRM.csproj.GenerateResource.Cache
+D:\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\OneCRM.exe.manifest
+D:\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\OneCRM.application
+D:\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\OneCRM.csprojResolveAssemblyReference.cache
+D:\Project Plan\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\bin\Debug\OneCRM.exe.config
+D:\Project Plan\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\OneCRM.exe
+D:\Project Plan\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\OneCRM.pdb
+D:\~ CRM\OneCRM\obj\Debug\OneCRM.AddAlternateNumber.resources
+D:\~ CRM\OneCRM\obj\Debug\OneCRM.Break.resources
+D:\~ CRM\OneCRM\obj\Debug\OneCRM.CTI.resources
+D:\~ CRM\OneCRM\obj\Debug\OneCRM.Login.resources
+D:\~ CRM\OneCRM\obj\Debug\OneCRM.SearchCustomerDetails.resources
+D:\~ CRM\OneCRM\obj\Debug\OneCRM.csproj.GenerateResource.Cache
+D:\~ CRM\OneCRM\bin\Debug\OneCRM.exe.config
+D:\~ CRM\OneCRM\obj\Debug\OneCRM.Properties.Resources.resources
+D:\~ CRM\OneCRM\bin\Debug\OneCRM.exe.manifest
+D:\~ CRM\OneCRM\bin\Debug\OneCRM.application
+D:\~ CRM\OneCRM\bin\Debug\OneCRM.exe
+D:\~ CRM\OneCRM\bin\Debug\OneCRM.pdb
+D:\~ CRM\OneCRM\obj\Debug\OneCRM.exe.manifest
+D:\~ CRM\OneCRM\obj\Debug\OneCRM.application
+D:\~ CRM\OneCRM\obj\Debug\OneCRM.exe
+D:\~ CRM\OneCRM\obj\Debug\OneCRM.pdb
+D:\~ CRM\OneCRM - SipIntegrated\bin\Debug\OneCRM.exe.config
+D:\~ CRM\OneCRM - SipIntegrated\obj\Debug\OneCRM.exe
+D:\~ CRM\OneCRM - SipIntegrated\obj\Debug\OneCRM.pdb
+D:\~ CRM\OneCRM - SipIntegrated\bin\Debug\OneCRM.exe.manifest
+D:\~ CRM\OneCRM - SipIntegrated\bin\Debug\OneCRM.application
+D:\~ CRM\OneCRM - SipIntegrated\bin\Debug\OneCRM.exe
+D:\~ CRM\OneCRM - SipIntegrated\bin\Debug\OneCRM.pdb
+D:\~ CRM\OneCRM - SipIntegrated\obj\Debug\OneCRM.csprojResolveAssemblyReference.cache
+D:\~ CRM\OneCRM - SipIntegrated\obj\Debug\OneCRM.AddAlternateNumber.resources
+D:\~ CRM\OneCRM - SipIntegrated\obj\Debug\OneCRM.Break.resources
+D:\~ CRM\OneCRM - SipIntegrated\obj\Debug\OneCRM.CTI.resources
+D:\~ CRM\OneCRM - SipIntegrated\obj\Debug\OneCRM.Login.resources
+D:\~ CRM\OneCRM - SipIntegrated\obj\Debug\OneCRM.Properties.Resources.resources
+D:\~ CRM\OneCRM - SipIntegrated\obj\Debug\OneCRM.SearchCustomerDetails.resources
+D:\~ CRM\OneCRM - SipIntegrated\obj\Debug\OneCRM.csproj.GenerateResource.Cache
+D:\~ CRM\OneCRM - SipIntegrated\obj\Debug\OneCRM.exe.manifest
+D:\~ CRM\OneCRM - SipIntegrated\obj\Debug\OneCRM.application
+D:\~ CRM\OneCRM\obj\Debug\OneCRM.csprojResolveAssemblyReference.cache
+D:\~ CRM\OneCRM_ICICI_Security\bin\Debug\OneCRM.exe.config
+D:\~ CRM\OneCRM_ICICI_Security\obj\Debug\OneCRM.exe
+D:\~ CRM\OneCRM_ICICI_Security\obj\Debug\OneCRM.pdb
+D:\~ CRM\OneCRM_ICICI_Security\bin\Debug\OneCRM.exe.manifest
+D:\~ CRM\OneCRM_ICICI_Security\bin\Debug\OneCRM.application
+D:\~ CRM\OneCRM_ICICI_Security\bin\Debug\OneCRM.exe
+D:\~ CRM\OneCRM_ICICI_Security\bin\Debug\OneCRM.pdb
+D:\~ CRM\OneCRM_ICICI_Security\obj\Debug\OneCRM.AddAlternateNumber.resources
+D:\~ CRM\OneCRM_ICICI_Security\obj\Debug\OneCRM.Break.resources
+D:\~ CRM\OneCRM_ICICI_Security\obj\Debug\OneCRM.CTI.resources
+D:\~ CRM\OneCRM_ICICI_Security\obj\Debug\OneCRM.Login.resources
+D:\~ CRM\OneCRM_ICICI_Security\obj\Debug\OneCRM.Properties.Resources.resources
+D:\~ CRM\OneCRM_ICICI_Security\obj\Debug\OneCRM.SearchCustomerDetails.resources
+D:\~ CRM\OneCRM_ICICI_Security\obj\Debug\OneCRM.csproj.GenerateResource.Cache
+D:\~ CRM\OneCRM_ICICI_Security\obj\Debug\OneCRM.exe.manifest
+D:\~ CRM\OneCRM_ICICI_Security\obj\Debug\OneCRM.application
+D:\~ CRM\OneCRM_ICICI_Security\obj\Debug\OneCRM.csprojResolveAssemblyReference.cache
+D:\~ CRM\OneCRM_UAT_MUM&GGN\bin\Debug\OneCRM.exe.config
+D:\~ CRM\OneCRM_UAT_MUM&GGN\obj\Debug\OneCRM.exe
+D:\~ CRM\OneCRM_UAT_MUM&GGN\obj\Debug\OneCRM.pdb
+D:\~ CRM\OneCRM_UAT_MUM&GGN\obj\Debug\OneCRM.AddAlternateNumber.resources
+D:\~ CRM\OneCRM_UAT_MUM&GGN\obj\Debug\OneCRM.Break.resources
+D:\~ CRM\OneCRM_UAT_MUM&GGN\obj\Debug\OneCRM.CTI.resources
+D:\~ CRM\OneCRM_UAT_MUM&GGN\obj\Debug\OneCRM.Login.resources
+D:\~ CRM\OneCRM_UAT_MUM&GGN\obj\Debug\OneCRM.Properties.Resources.resources
+D:\~ CRM\OneCRM_UAT_MUM&GGN\obj\Debug\OneCRM.SearchCustomerDetails.resources
+D:\~ CRM\OneCRM_UAT_MUM&GGN\obj\Debug\OneCRM.csproj.GenerateResource.Cache
+D:\~ CRM\OneCRM_UAT_MUM&GGN\bin\Debug\OneCRM.exe.manifest
+D:\~ CRM\OneCRM_UAT_MUM&GGN\bin\Debug\OneCRM.application
+D:\~ CRM\OneCRM_UAT_MUM&GGN\bin\Debug\OneCRM.exe
+D:\~ CRM\OneCRM_UAT_MUM&GGN\bin\Debug\OneCRM.pdb
+D:\~ CRM\OneCRM_UAT_MUM&GGN\obj\Debug\OneCRM.exe.manifest
+D:\~ CRM\OneCRM_UAT_MUM&GGN\obj\Debug\OneCRM.application
+D:\~ CRM\OneCRM_UAT_MUM&GGN\obj\Debug\OneCRM.csprojResolveAssemblyReference.cache
+G:\~ CRM\OneCRM_UAT_MUM&GGN\bin\Debug\OneCRM.exe.config
+G:\~ CRM\OneCRM_UAT_MUM&GGN\obj\Debug\OneCRM.exe
+G:\~ CRM\OneCRM_UAT_MUM&GGN\obj\Debug\OneCRM.pdb
+G:\~ CRM\OneCRM_UAT_MUM&GGN\bin\Debug\OneCRM.exe.manifest
+G:\~ CRM\OneCRM_UAT_MUM&GGN\bin\Debug\OneCRM.application
+G:\~ CRM\OneCRM_UAT_MUM&GGN\bin\Debug\OneCRM.exe
+G:\~ CRM\OneCRM_UAT_MUM&GGN\bin\Debug\OneCRM.pdb
+G:\~ CRM\OneCRM_UAT_MUM&GGN\obj\Debug\OneCRM.csprojResolveAssemblyReference.cache
+G:\~ CRM\OneCRM_UAT_MUM&GGN\obj\Debug\OneCRM.AddAlternateNumber.resources
+G:\~ CRM\OneCRM_UAT_MUM&GGN\obj\Debug\OneCRM.Break.resources
+G:\~ CRM\OneCRM_UAT_MUM&GGN\obj\Debug\OneCRM.CTI.resources
+G:\~ CRM\OneCRM_UAT_MUM&GGN\obj\Debug\OneCRM.Login.resources
+G:\~ CRM\OneCRM_UAT_MUM&GGN\obj\Debug\OneCRM.Properties.Resources.resources
+G:\~ CRM\OneCRM_UAT_MUM&GGN\obj\Debug\OneCRM.SearchCustomerDetails.resources
+G:\~ CRM\OneCRM_UAT_MUM&GGN\obj\Debug\OneCRM.csproj.GenerateResource.Cache
+G:\~ CRM\OneCRM_UAT_MUM&GGN\obj\Debug\OneCRM.exe.manifest
+G:\~ CRM\OneCRM_UAT_MUM&GGN\obj\Debug\OneCRM.application
+G:\~ CRM\OneCRM_UAT_MUM&GGN_20231005\bin\Debug\OneCRM.exe.config
+G:\~ CRM\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.exe
+G:\~ CRM\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.pdb
+G:\~ CRM\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.csprojResolveAssemblyReference.cache
+G:\~ CRM\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.AddAlternateNumber.resources
+G:\~ CRM\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.Break.resources
+G:\~ CRM\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.CTI.resources
+G:\~ CRM\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.Login.resources
+G:\~ CRM\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.Properties.Resources.resources
+G:\~ CRM\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.SearchCustomerDetails.resources
+G:\~ CRM\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.csproj.GenerateResource.Cache
+G:\~ CRM\OneCRM_UAT_MUM&GGN_20231005\bin\Debug\OneCRM.exe.manifest
+G:\~ CRM\OneCRM_UAT_MUM&GGN_20231005\bin\Debug\OneCRM.application
+G:\~ CRM\OneCRM_UAT_MUM&GGN_20231005\bin\Debug\OneCRM.exe
+G:\~ CRM\OneCRM_UAT_MUM&GGN_20231005\bin\Debug\OneCRM.pdb
+G:\~ CRM\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.exe.manifest
+G:\~ CRM\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.application
+C:\Users\OPO113697\Desktop\Repository\WindowsForm\OneCRM_UAT_MUM&GGN_20231005\bin\Debug\OneCRM.exe.config
+C:\Users\OPO113697\Desktop\Repository\WindowsForm\OneCRM_UAT_MUM&GGN_20231005\bin\Debug\OneCRM.exe.manifest
+C:\Users\OPO113697\Desktop\Repository\WindowsForm\OneCRM_UAT_MUM&GGN_20231005\bin\Debug\OneCRM.application
+C:\Users\OPO113697\Desktop\Repository\WindowsForm\OneCRM_UAT_MUM&GGN_20231005\bin\Debug\OneCRM.exe
+C:\Users\OPO113697\Desktop\Repository\WindowsForm\OneCRM_UAT_MUM&GGN_20231005\bin\Debug\OneCRM.pdb
+C:\Users\OPO113697\Desktop\Repository\WindowsForm\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.AddAlternateNumber.resources
+C:\Users\OPO113697\Desktop\Repository\WindowsForm\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.Break.resources
+C:\Users\OPO113697\Desktop\Repository\WindowsForm\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.CTI.resources
+C:\Users\OPO113697\Desktop\Repository\WindowsForm\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.Login.resources
+C:\Users\OPO113697\Desktop\Repository\WindowsForm\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.Properties.Resources.resources
+C:\Users\OPO113697\Desktop\Repository\WindowsForm\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.Questions.resources
+C:\Users\OPO113697\Desktop\Repository\WindowsForm\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.SearchCustomerDetails.resources
+C:\Users\OPO113697\Desktop\Repository\WindowsForm\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.csproj.GenerateResource.cache
+C:\Users\OPO113697\Desktop\Repository\WindowsForm\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.exe.manifest
+C:\Users\OPO113697\Desktop\Repository\WindowsForm\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.application
+C:\Users\OPO113697\Desktop\Repository\WindowsForm\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.exe
+C:\Users\OPO113697\Desktop\Repository\WindowsForm\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.pdb
+C:\Users\OPO113697\Desktop\Repository\WindowsForm\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.csprojResolveAssemblyReference.cache
+D:\Repository\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\bin\Debug\OneCRM.exe.config
+D:\Repository\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\bin\Debug\OneCRM.exe.manifest
+D:\Repository\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\bin\Debug\OneCRM.application
+D:\Repository\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\bin\Debug\OneCRM.exe
+D:\Repository\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\bin\Debug\OneCRM.pdb
+D:\Repository\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.AddAlternateNumber.resources
+D:\Repository\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.Break.resources
+D:\Repository\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.CTI.resources
+D:\Repository\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.Login.resources
+D:\Repository\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.Properties.Resources.resources
+D:\Repository\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.Questions.resources
+D:\Repository\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.SearchCustomerDetails.resources
+D:\Repository\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.csproj.GenerateResource.Cache
+D:\Repository\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.exe.manifest
+D:\Repository\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.application
+D:\Repository\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.exe
+D:\Repository\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.pdb
+D:\Repository\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.csprojResolveAssemblyReference.cache
+D:\CRM\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.csproj.AssemblyReference.cache
+D:\CRM\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.AddAlternateNumber.resources
+D:\CRM\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.Break.resources
+D:\CRM\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.CTI.resources
+D:\CRM\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.Login.resources
+D:\CRM\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.Properties.Resources.resources
+D:\CRM\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.Questions.resources
+D:\CRM\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.SearchCustomerDetails.resources
+D:\CRM\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.csproj.GenerateResource.cache
+D:\CRM\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.csproj.CoreCompileInputs.cache
+D:\CRM\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.exe
+D:\CRM\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.pdb
+D:\CRM\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\bin\Debug\OneCRM.exe.config
+D:\CRM\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\bin\Debug\OneCRM.exe.manifest
+D:\CRM\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\bin\Debug\OneCRM.application
+D:\CRM\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\bin\Debug\OneCRM.exe
+D:\CRM\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\bin\Debug\OneCRM.pdb
+D:\CRM\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.exe.manifest
+D:\CRM\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.application
+D:\CRM\Socket_Programming\OneCRM_UAT_MUM&GGN_20231005\obj\Debug\OneCRM.csproj.Up2Date
+D:\CRM\Socket_Programming\Web_CRM\bin\Debug\OneCRM.exe.config
+D:\CRM\Socket_Programming\Web_CRM\obj\Debug\OneCRM.exe
+D:\CRM\Socket_Programming\Web_CRM\obj\Debug\OneCRM.pdb
+D:\CRM\Socket_Programming\Web_CRM\bin\Debug\OneCRM.exe.manifest
+D:\CRM\Socket_Programming\Web_CRM\bin\Debug\OneCRM.application
+D:\CRM\Socket_Programming\Web_CRM\bin\Debug\OneCRM.exe
+D:\CRM\Socket_Programming\Web_CRM\bin\Debug\OneCRM.pdb
+D:\CRM\Socket_Programming\Web_CRM\obj\Debug\OneCRM.csprojResolveAssemblyReference.cache
+D:\CRM\Socket_Programming\Web_CRM\obj\Debug\OneCRM.AddAlternateNumber.resources
+D:\CRM\Socket_Programming\Web_CRM\obj\Debug\OneCRM.Break.resources
+D:\CRM\Socket_Programming\Web_CRM\obj\Debug\OneCRM.CTI.resources
+D:\CRM\Socket_Programming\Web_CRM\obj\Debug\OneCRM.Login.resources
+D:\CRM\Socket_Programming\Web_CRM\obj\Debug\OneCRM.Properties.Resources.resources
+D:\CRM\Socket_Programming\Web_CRM\obj\Debug\OneCRM.Questions.resources
+D:\CRM\Socket_Programming\Web_CRM\obj\Debug\OneCRM.SearchCustomerDetails.resources
+D:\CRM\Socket_Programming\Web_CRM\obj\Debug\OneCRM.csproj.GenerateResource.Cache
+D:\CRM\Socket_Programming\Web_CRM\obj\Debug\OneCRM.exe.manifest
+D:\CRM\Socket_Programming\Web_CRM\obj\Debug\OneCRM.application
+D:\CRM\Mumbai\Socket_Programming\Web_CRM\bin\Debug\OneCRM.exe
+D:\CRM\Mumbai\Socket_Programming\Web_CRM\bin\Debug\OneCRM.exe.config
+D:\CRM\Mumbai\Socket_Programming\Web_CRM\bin\Debug\OneCRM.exe.manifest
+D:\CRM\Mumbai\Socket_Programming\Web_CRM\bin\Debug\OneCRM.application
+D:\CRM\Mumbai\Socket_Programming\Web_CRM\obj\Debug\OneCRM.AddAlternateNumber.resources
+D:\CRM\Mumbai\Socket_Programming\Web_CRM\obj\Debug\OneCRM.Break.resources
+D:\CRM\Mumbai\Socket_Programming\Web_CRM\obj\Debug\OneCRM.CTI.resources
+D:\CRM\Mumbai\Socket_Programming\Web_CRM\obj\Debug\OneCRM.Login.resources
+D:\CRM\Mumbai\Socket_Programming\Web_CRM\obj\Debug\OneCRM.Properties.Resources.resources
+D:\CRM\Mumbai\Socket_Programming\Web_CRM\obj\Debug\OneCRM.Questions.resources
+D:\CRM\Mumbai\Socket_Programming\Web_CRM\obj\Debug\OneCRM.SearchCustomerDetails.resources
+D:\CRM\Mumbai\Socket_Programming\Web_CRM\obj\Debug\OneCRM.csproj.GenerateResource.Cache
+D:\CRM\Mumbai\Socket_Programming\Web_CRM\obj\Debug\OneCRM.exe.manifest
+D:\CRM\Mumbai\Socket_Programming\Web_CRM\obj\Debug\OneCRM.application
+D:\CRM\Mumbai\Socket_Programming\Web_CRM\obj\Debug\OneCRM.exe
+D:\CRM\Mumbai\Socket_Programming\Web_CRM\obj\Debug\OneCRM.pdb
+D:\CRM\Mumbai\Socket_Programming\Web_CRM\bin\Debug\OneCRM.pdb
+D:\CRM\Mumbai\Socket_Programming\Web_CRM\obj\Debug\OneCRM.csprojResolveAssemblyReference.cache
+C:\Users\opo113697\Desktop\Socket_Programming\Web_CRM\bin\Debug\OneCRM.exe.config
+C:\Users\opo113697\Desktop\Socket_Programming\Web_CRM\bin\Debug\OneCRM.exe.manifest
+C:\Users\opo113697\Desktop\Socket_Programming\Web_CRM\bin\Debug\OneCRM.application
+C:\Users\opo113697\Desktop\Socket_Programming\Web_CRM\bin\Debug\OneCRM.exe
+C:\Users\opo113697\Desktop\Socket_Programming\Web_CRM\bin\Debug\OneCRM.pdb
+C:\Users\opo113697\Desktop\Socket_Programming\Web_CRM\obj\Debug\OneCRM.AddAlternateNumber.resources
+C:\Users\opo113697\Desktop\Socket_Programming\Web_CRM\obj\Debug\OneCRM.Break.resources
+C:\Users\opo113697\Desktop\Socket_Programming\Web_CRM\obj\Debug\OneCRM.CTI.resources
+C:\Users\opo113697\Desktop\Socket_Programming\Web_CRM\obj\Debug\OneCRM.Login.resources
+C:\Users\opo113697\Desktop\Socket_Programming\Web_CRM\obj\Debug\OneCRM.Properties.Resources.resources
+C:\Users\opo113697\Desktop\Socket_Programming\Web_CRM\obj\Debug\OneCRM.Questions.resources
+C:\Users\opo113697\Desktop\Socket_Programming\Web_CRM\obj\Debug\OneCRM.SearchCustomerDetails.resources
+C:\Users\opo113697\Desktop\Socket_Programming\Web_CRM\obj\Debug\OneCRM.csproj.GenerateResource.Cache
+C:\Users\opo113697\Desktop\Socket_Programming\Web_CRM\obj\Debug\OneCRM.exe.manifest
+C:\Users\opo113697\Desktop\Socket_Programming\Web_CRM\obj\Debug\OneCRM.application
+C:\Users\opo113697\Desktop\Socket_Programming\Web_CRM\obj\Debug\OneCRM.exe
+C:\Users\opo113697\Desktop\Socket_Programming\Web_CRM\obj\Debug\OneCRM.pdb
+C:\Users\opo113697\Desktop\Socket_Programming\Web_CRM\obj\Debug\OneCRM.csprojResolveAssemblyReference.cache
+D:\CRM\Web_CRM_NEW\Web_CRM\bin\Debug\OneCRM.exe.config
+D:\CRM\Web_CRM_NEW\Web_CRM\obj\Debug\OneCRM.exe
+D:\CRM\Web_CRM_NEW\Web_CRM\obj\Debug\OneCRM.pdb
+D:\CRM\Web_CRM_NEW\Web_CRM\bin\Debug\OneCRM.exe.manifest
+D:\CRM\Web_CRM_NEW\Web_CRM\bin\Debug\OneCRM.application
+D:\CRM\Web_CRM_NEW\Web_CRM\bin\Debug\OneCRM.exe
+D:\CRM\Web_CRM_NEW\Web_CRM\bin\Debug\OneCRM.pdb
+D:\CRM\Web_CRM_NEW\Web_CRM\obj\Debug\OneCRM.AddAlternateNumber.resources
+D:\CRM\Web_CRM_NEW\Web_CRM\obj\Debug\OneCRM.Break.resources
+D:\CRM\Web_CRM_NEW\Web_CRM\obj\Debug\OneCRM.CTI.resources
+D:\CRM\Web_CRM_NEW\Web_CRM\obj\Debug\OneCRM.Login.resources
+D:\CRM\Web_CRM_NEW\Web_CRM\obj\Debug\OneCRM.Properties.Resources.resources
+D:\CRM\Web_CRM_NEW\Web_CRM\obj\Debug\OneCRM.Questions.resources
+D:\CRM\Web_CRM_NEW\Web_CRM\obj\Debug\OneCRM.SearchCustomerDetails.resources
+D:\CRM\Web_CRM_NEW\Web_CRM\obj\Debug\OneCRM.csproj.GenerateResource.Cache
+D:\CRM\Web_CRM_NEW\Web_CRM\obj\Debug\OneCRM.exe.manifest
+D:\CRM\Web_CRM_NEW\Web_CRM\obj\Debug\OneCRM.application
+D:\CRM\Web_CRM_NEW\Web_CRM\obj\Debug\OneCRM.csprojResolveAssemblyReference.cache
+C:\Users\opo113697\Desktop\Web CRM Sept\Web_CRM\bin\Debug\OneCRM.exe.config
+C:\Users\opo113697\Desktop\Web CRM Sept\Web_CRM\bin\Debug\OneCRM.exe.manifest
+C:\Users\opo113697\Desktop\Web CRM Sept\Web_CRM\bin\Debug\OneCRM.application
+C:\Users\opo113697\Desktop\Web CRM Sept\Web_CRM\bin\Debug\OneCRM.exe
+C:\Users\opo113697\Desktop\Web CRM Sept\Web_CRM\bin\Debug\OneCRM.pdb
+C:\Users\opo113697\Desktop\Web CRM Sept\Web_CRM\obj\Debug\OneCRM.AddAlternateNumber.resources
+C:\Users\opo113697\Desktop\Web CRM Sept\Web_CRM\obj\Debug\OneCRM.Break.resources
+C:\Users\opo113697\Desktop\Web CRM Sept\Web_CRM\obj\Debug\OneCRM.CTI.resources
+C:\Users\opo113697\Desktop\Web CRM Sept\Web_CRM\obj\Debug\OneCRM.Login.resources
+C:\Users\opo113697\Desktop\Web CRM Sept\Web_CRM\obj\Debug\OneCRM.Properties.Resources.resources
+C:\Users\opo113697\Desktop\Web CRM Sept\Web_CRM\obj\Debug\OneCRM.Questions.resources
+C:\Users\opo113697\Desktop\Web CRM Sept\Web_CRM\obj\Debug\OneCRM.SearchCustomerDetails.resources
+C:\Users\opo113697\Desktop\Web CRM Sept\Web_CRM\obj\Debug\OneCRM.csproj.GenerateResource.Cache
+C:\Users\opo113697\Desktop\Web CRM Sept\Web_CRM\obj\Debug\OneCRM.exe.manifest
+C:\Users\opo113697\Desktop\Web CRM Sept\Web_CRM\obj\Debug\OneCRM.application
+C:\Users\opo113697\Desktop\Web CRM Sept\Web_CRM\obj\Debug\OneCRM.exe
+C:\Users\opo113697\Desktop\Web CRM Sept\Web_CRM\obj\Debug\OneCRM.pdb
+C:\Users\opo113697\Desktop\Web CRM Live\Web_CRM\bin\Debug\OneCRM.exe.config
+C:\Users\opo113697\Desktop\Web CRM Live\Web_CRM\obj\Debug\OneCRM.exe
+C:\Users\opo113697\Desktop\Web CRM Live\Web_CRM\obj\Debug\OneCRM.pdb
+C:\Users\opo113697\Desktop\Web CRM Live\Web_CRM\bin\Debug\OneCRM.exe.manifest
+C:\Users\opo113697\Desktop\Web CRM Live\Web_CRM\bin\Debug\OneCRM.application
+C:\Users\opo113697\Desktop\Web CRM Live\Web_CRM\bin\Debug\OneCRM.exe
+C:\Users\opo113697\Desktop\Web CRM Live\Web_CRM\bin\Debug\OneCRM.pdb
+C:\Users\opo113697\Desktop\Web CRM Live\Web_CRM\obj\Debug\OneCRM.AddAlternateNumber.resources
+C:\Users\opo113697\Desktop\Web CRM Live\Web_CRM\obj\Debug\OneCRM.Break.resources
+C:\Users\opo113697\Desktop\Web CRM Live\Web_CRM\obj\Debug\OneCRM.CTI.resources
+C:\Users\opo113697\Desktop\Web CRM Live\Web_CRM\obj\Debug\OneCRM.Login.resources
+C:\Users\opo113697\Desktop\Web CRM Live\Web_CRM\obj\Debug\OneCRM.Properties.Resources.resources
+C:\Users\opo113697\Desktop\Web CRM Live\Web_CRM\obj\Debug\OneCRM.Questions.resources
+C:\Users\opo113697\Desktop\Web CRM Live\Web_CRM\obj\Debug\OneCRM.SearchCustomerDetails.resources
+C:\Users\opo113697\Desktop\Web CRM Live\Web_CRM\obj\Debug\OneCRM.csproj.GenerateResource.Cache
+C:\Users\opo113697\Desktop\Web CRM Live\Web_CRM\obj\Debug\OneCRM.exe.manifest
+C:\Users\opo113697\Desktop\Web CRM Live\Web_CRM\obj\Debug\OneCRM.application
+C:\Users\opo113697\Desktop\Web CRM Live\Web_CRM\obj\Debug\OneCRM.csproj.AssemblyReference.cache
+C:\Users\opo113697\Desktop\Web CRM Live\Web_CRM\obj\Debug\OneCRM.csproj.CoreCompileInputs.cache
+C:\Users\opo113697\Desktop\Web CRM Live\Web_CRM\obj\Debug\OneCRM.csproj.Up2Date

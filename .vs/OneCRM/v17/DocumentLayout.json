@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\opo113697\\Desktop\\Web CRM Live\\Web_CRM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|c:\\users\\opo113697\\desktop\\web crm live\\web_crm\\cti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|solutionrelative:cti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|C:\\Users\\opo113697\\Desktop\\Web CRM Live\\Web_CRM\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|OneCRM||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|C:\\Users\\opo113697\\Desktop\\Web CRM Live\\Web_CRM\\cl_agentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|solutionrelative:cl_agentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|C:\\Users\\opo113697\\Desktop\\Web CRM Live\\Web_CRM\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|C:\\Users\\opo113697\\Desktop\\Web CRM Live\\Web_CRM\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|solutionrelative:questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|C:\\Users\\opo113697\\Desktop\\Web CRM Live\\Web_CRM\\questions.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|solutionrelative:questions.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|C:\\Users\\opo113697\\Desktop\\Web CRM Live\\Web_CRM\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|C:\\Users\\opo113697\\Desktop\\Web CRM Live\\Web_CRM\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|solutionrelative:questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OneCRM",
+              "DocumentMoniker": "C:\\Users\\opo113697\\Desktop\\Web CRM Live\\Web_CRM\\OneCRM.csproj",
+              "RelativeDocumentMoniker": "OneCRM.csproj",
+              "ToolTip": "C:\\Users\\opo113697\\Desktop\\Web CRM Live\\Web_CRM\\OneCRM.csproj",
+              "RelativeToolTip": "OneCRM.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-03T07:30:09.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CL_AgentDetails.cs",
+              "DocumentMoniker": "C:\\Users\\opo113697\\Desktop\\Web CRM Live\\Web_CRM\\CL_AgentDetails.cs",
+              "RelativeDocumentMoniker": "CL_AgentDetails.cs",
+              "ToolTip": "C:\\Users\\opo113697\\Desktop\\Web CRM Live\\Web_CRM\\CL_AgentDetails.cs",
+              "RelativeToolTip": "CL_AgentDetails.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAQwH0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:05:32.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\opo113697\\Desktop\\Web CRM Live\\Web_CRM\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\opo113697\\Desktop\\Web CRM Live\\Web_CRM\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwDwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:47:08.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\opo113697\\Desktop\\Web CRM Live\\Web_CRM\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\opo113697\\Desktop\\Web CRM Live\\Web_CRM\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:47:01.933Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CTI.cs",
+              "DocumentMoniker": "C:\\Users\\opo113697\\Desktop\\Web CRM Live\\Web_CRM\\CTI.cs",
+              "RelativeDocumentMoniker": "CTI.cs",
+              "ToolTip": "C:\\Users\\opo113697\\Desktop\\Web CRM Live\\Web_CRM\\CTI.cs",
+              "RelativeToolTip": "CTI.cs",
+              "ViewState": "AQIAAGECAAAAAAAAAAAswHACAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:46:49.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\opo113697\\Desktop\\Web CRM Live\\Web_CRM\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\opo113697\\Desktop\\Web CRM Live\\Web_CRM\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:46:49.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Questions.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\opo113697\\Desktop\\Web CRM Live\\Web_CRM\\Questions.Designer.cs",
+              "RelativeDocumentMoniker": "Questions.Designer.cs",
+              "ToolTip": "C:\\Users\\opo113697\\Desktop\\Web CRM Live\\Web_CRM\\Questions.Designer.cs",
+              "RelativeToolTip": "Questions.Designer.cs",
+              "ViewState": "AQIAAF4BAAAAAAAAAAAtwHkBAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:46:49.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Questions.cs",
+              "DocumentMoniker": "C:\\Users\\opo113697\\Desktop\\Web CRM Live\\Web_CRM\\Questions.cs",
+              "RelativeDocumentMoniker": "Questions.cs",
+              "ToolTip": "C:\\Users\\opo113697\\Desktop\\Web CRM Live\\Web_CRM\\Questions.cs",
+              "RelativeToolTip": "Questions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:46:49.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Questions.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\opo113697\\Desktop\\Web CRM Live\\Web_CRM\\Questions.cs",
+              "RelativeDocumentMoniker": "Questions.cs",
+              "ToolTip": "C:\\Users\\opo113697\\Desktop\\Web CRM Live\\Web_CRM\\Questions.cs [Design]",
+              "RelativeToolTip": "Questions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:46:49.497Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
